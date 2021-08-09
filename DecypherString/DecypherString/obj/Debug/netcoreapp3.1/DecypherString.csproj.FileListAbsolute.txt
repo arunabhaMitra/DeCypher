@@ -1,0 +1,13 @@
+C:\CodingArena\DecypherString\DecypherString\bin\Debug\netcoreapp3.1\DecypherString.exe
+C:\CodingArena\DecypherString\DecypherString\bin\Debug\netcoreapp3.1\DecypherString.deps.json
+C:\CodingArena\DecypherString\DecypherString\bin\Debug\netcoreapp3.1\DecypherString.runtimeconfig.json
+C:\CodingArena\DecypherString\DecypherString\bin\Debug\netcoreapp3.1\DecypherString.runtimeconfig.dev.json
+C:\CodingArena\DecypherString\DecypherString\bin\Debug\netcoreapp3.1\DecypherString.dll
+C:\CodingArena\DecypherString\DecypherString\bin\Debug\netcoreapp3.1\DecypherString.pdb
+C:\CodingArena\DecypherString\DecypherString\obj\Debug\netcoreapp3.1\DecypherString.csproj.AssemblyReference.cache
+C:\CodingArena\DecypherString\DecypherString\obj\Debug\netcoreapp3.1\DecypherString.AssemblyInfoInputs.cache
+C:\CodingArena\DecypherString\DecypherString\obj\Debug\netcoreapp3.1\DecypherString.AssemblyInfo.cs
+C:\CodingArena\DecypherString\DecypherString\obj\Debug\netcoreapp3.1\DecypherString.csproj.CoreCompileInputs.cache
+C:\CodingArena\DecypherString\DecypherString\obj\Debug\netcoreapp3.1\DecypherString.dll
+C:\CodingArena\DecypherString\DecypherString\obj\Debug\netcoreapp3.1\DecypherString.pdb
+C:\CodingArena\DecypherString\DecypherString\obj\Debug\netcoreapp3.1\DecypherString.genruntimeconfig.cache
