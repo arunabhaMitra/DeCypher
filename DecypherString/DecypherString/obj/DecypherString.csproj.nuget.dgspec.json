@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\CodingArena\\DecypherString\\DecypherString\\DecypherString.csproj": {}
+    "C:\\Coding Arena\\DeCypher\\DecypherString\\DecypherString\\DecypherString.csproj": {}
   },
   "projects": {
-    "C:\\CodingArena\\DecypherString\\DecypherString\\DecypherString.csproj": {
+    "C:\\Coding Arena\\DeCypher\\DecypherString\\DecypherString\\DecypherString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\CodingArena\\DecypherString\\DecypherString\\DecypherString.csproj",
+        "projectUniqueName": "C:\\Coding Arena\\DeCypher\\DecypherString\\DecypherString\\DecypherString.csproj",
         "projectName": "DecypherString",
-        "projectPath": "C:\\CodingArena\\DecypherString\\DecypherString\\DecypherString.csproj",
-        "packagesPath": "C:\\Users\\aruna\\.nuget\\packages\\",
-        "outputPath": "C:\\CodingArena\\DecypherString\\DecypherString\\obj\\",
+        "projectPath": "C:\\Coding Arena\\DeCypher\\DecypherString\\DecypherString\\DecypherString.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Coding Arena\\DeCypher\\DecypherString\\DecypherString\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aruna\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
